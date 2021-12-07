@@ -2,27 +2,22 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> Excersise to use jest and test code.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+- JS
+- Jest
+- Webpack
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**Install Jest with the folloring command:**
 
 
 To get a local copy up and running follow these simple example steps.
@@ -37,23 +32,16 @@ To get a local copy up and running follow these simple example steps.
 
 ### Run tests
 
-### Deployment
-
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@angelacuahutle](https://github.com/angelacuahutle)
+- Twitter: [@AngelaCunaDev](https://twitter.com/AngelaCunaDev)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/angelacuahutle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
