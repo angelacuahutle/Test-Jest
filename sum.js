@@ -27,7 +27,7 @@ class Calculator {
   }
 }
 
-const capitalized = (string) => {
+const capitalize = (string) => {
   return string.charAt(0).toUpperCase() + string.slice(1);
 }
 

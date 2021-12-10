@@ -1,4 +1,4 @@
-const {stringLength, reverseString, Calculator, capitalize} = require ('./sum.js');
+const {stringLength, reverseString, Calculator, capitalize} = require ('./sum');
 
 describe('stringLength tests', () => {
   test('valid string length', () => {
@@ -47,8 +47,8 @@ describe('Calculator tests', () => {
 });
 
 
-describe('capitalize tests', () => {
-  test('capitalizing a string', () => {
-    expect(capitalize('angel')).toBe('Angel');
+describe('capitalizes a string', () => {
+  test('capitalize a string', () => {
+  expect(capitalize('angel')).toBe('Angel');
   });
 });
