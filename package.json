@@ -1,0 +1,23 @@
+{
+  "name": "test-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angelacuahutle/Test-Jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelacuahutle/Test-Jest/issues"
+  },
+  "homepage": "https://github.com/angelacuahutle/Test-Jest#readme",
+  "devDependencies": {
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^27.4.4"
+  }
+}
